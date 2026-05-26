@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseealidate",
+        "uuid": 7307391,
+        "checksum": "8p9rpm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
